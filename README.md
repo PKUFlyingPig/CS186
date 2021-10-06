@@ -10,11 +10,11 @@ This repo contains all the learning materials for Berkeley's Database course CS1
 
 [Recorded videos](https://www.youtube.com/user/CS186Berkeley/playlists): I watched the recorded videos on Youtube, you can also find the same videos on bilibili. 
 
-Vitamin:  Vitamins are short, weekly assignments to keep you on schedule and check your understanding of the basics from lecture. However these assignments are not open to the public, but you can find them on the [Edx's archived CS186W](https://learning.edge.edx.org/course/course-v1:BerkeleyX+CS186+2018_SP/). You can also download the ppt and watch course videos on Edx.
+Vitamin:  Vitamins are short, weekly assignments to keep you on schedule and check your understanding of the basics from lecture. However these assignments are not open to the public, you can find them on the [Edx's archived CS186W](https://learning.edge.edx.org/course/course-v1:BerkeleyX+CS186+2018_SP/). You can also download the ppt and watch course videos on Edx.
 
 [PPT](./ppt): I downloaded them from Edx.
 
-[Notes](./notes): These notes serve as a great conclusion and explanation of the course contents. I read the 2021 spring version.
+[Notes](./notes): These notes serve as a great explanation and conclusion of the course contents. I read the 2021 spring version.
 
 [Discussion](./discussion): Enhance your understanding of the course contents.
 
